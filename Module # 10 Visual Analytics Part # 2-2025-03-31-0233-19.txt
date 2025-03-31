@@ -1,0 +1,106 @@
+Video URL: https://youtu.be/dozTwGIfuLg
+
+0:00:00-hello and welcome back again part 2 of
+0:00:03-module number 10 time series and
+0:00:06-visualization I will talk about the
+0:00:09-actual conversion of time series into
+0:00:14-our and but specifically to ggplot2 the
+0:00:19-first example that I lay out for you in
+0:00:22-canvas is taken from a textbook page 96
+0:00:27-and where he laid out giving a data set
+0:00:31-that he posted on the web that you can
+0:00:34-pull the data in your art studio into
+0:00:39-your play application and start running
+0:00:43-it you know as if there is the the
+0:00:46-ability to do the calculation and be
+0:00:49-able to generate visualization that
+0:00:52-looks something like that which is quite
+0:00:54-cool and proficient I want to start this
+0:00:59-session about a little bit more about
+0:01:03-the background of ggplot2 and talk about
+0:01:07-the issue of the canvas that ggplot2
+0:01:10-create and again if you are not familiar
+0:01:15-with ggplot2 when you open your your art
+0:01:22-studio
+0:01:22-one of the things that will pop up is
+0:01:25-the ability to run as the same time as
+0:01:29-your code run a package example if you
+0:01:32-look at search here ggplot2 and you will
+0:01:37-have the ability to run your code as
+0:01:40-library in the ggplot2
+0:01:43-which is where all the platform of all
+0:01:47-the ideas of it embedded so in this case
+0:01:52-the option screen the 999 library
+0:01:56-ggplot2 which will give you back
+0:01:59-basically the canvas the canvas that i
+0:02:02-talked about which is not clean but it
+0:02:05-is very precise with regard to what we
+0:02:08-are trying to cheat achieve in this case
+0:02:11-we have two
+0:02:14-two variables and those variables are
+0:02:18-laid out for us in order for us to
+0:02:20-employ and create a simple plot in this
+0:02:24-case we can add another basically
+0:02:27-another layer of to the data in order
+0:02:31-for us to apply to it so again I lay out
+0:02:35-for you he define the colors what I want
+0:02:40-from you I want to see is something else
+0:02:42-add something that is belong to you that
+0:02:45-you can be the the one who created
+0:02:49-example gray and dark change it to that
+0:02:53-different color do something that not
+0:02:56-only copy it one to one which is great
+0:02:59-but it is boring and make it more your
+0:03:03-own creation so just learn about the
+0:03:07-data to learn what they did and try to
+0:03:11-improvise and try to create something
+0:03:14-that you can take ownership on it which
+0:03:18-is really important because one of the
+0:03:20-things that we always learn is that we
+0:03:24-learn from from the Masters and then we
+0:03:27-try to implement that to our own work
+0:03:30-another example that I lay out with to
+0:03:34-you with the with the code and
+0:03:37-everything else and again you can see
+0:03:41-where is all the layers where is them
+0:03:45-the record where is the title coming on
+0:03:49-and what is the color that will fill it
+0:03:53-up and again this is the same take on
+0:03:57-the subject with regard really important
+0:04:01-that I want you to see something else to
+0:04:03-throw something else that you created
+0:04:06-and the last example the same result in
+0:04:11-a different dimensions with regard to
+0:04:13-time series so all those things have in
+0:04:17-common and be able to apply different
+0:04:21-aspect of it
+0:04:22-and try to create your own something
+0:04:26-that is really a
+0:04:27-to me I really emphasize that I want to
+0:04:31-see your input your blog might be very
+0:04:34-interesting so saying hey I try to do
+0:04:37-that it did not work out this is what I
+0:04:39-need I will come and help you I will so
+0:04:42-give you full support and you get full
+0:04:45-credit for that but I want you to have
+0:04:48-your own creation your own work on it
+0:04:51-instead of copying it and paste it as if
+0:04:54-it's yours this is again the issue of
+0:04:57-your creation your work doing
+0:05:01-implementation add a little even a
+0:05:03-little small piece of the visualization
+0:05:07-to make it yours and own it own it as if
+0:05:11-this is your work that's it I hope you
+0:05:15-enjoy it this is a small short video I
+0:05:18-hope you enjoyed I hope that you would
+0:05:20-make more sense until next time and I
+0:05:23-will give you the links to all the
+0:05:26-necessary links that you need to have in
+0:05:29-order for you to create a better
+0:05:31-visualization and with time series and
+0:05:35-please do not hesitate to ask any
+0:05:38-question until next time have fun
+
+# Changelog
+# 2025-03-31-0233-19
+# Updated title extraction using BeautifulSoup.
